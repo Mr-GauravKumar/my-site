@@ -1,4 +1,5 @@
 This is just a HTML file
 
-Doctype HTML FIle Only
+Doctype HTML File Only
 
+My commit page
